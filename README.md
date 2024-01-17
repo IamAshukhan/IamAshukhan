@@ -1,3 +1,4 @@
+![logo](https://github.com/IamAshukhan/IamAshukhan/blob/main/Black%20and%20%20White%20Gradient%20Personal%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Ashu Khan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
